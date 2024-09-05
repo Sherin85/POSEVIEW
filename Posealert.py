@@ -6,8 +6,8 @@ import requests # For sending Telegram messages
 import telebot
 
 # Define Telegram bot information (replace with yours)
-bot_token = "6878930686:AAG7nGdWc_PWWOIZ0imm2I9FDRgAz5IKZ9M"
-chat_id = "1746617611"
+bot_token = "YOUR BOT TOKEN" #Write your telegram bot token here!!
+chat_id = "YOUR CHAT_ID"  #Write your chat_id here!!!
 
 # Calculate distance
 def findDistance(x1, y1, x2, y2):
